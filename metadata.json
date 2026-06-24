@@ -1,0 +1,6 @@
+{
+  "name": "Hemora",
+  "description": "Hemora is a premium blood donation network connecting donors and requesters instantly with advanced maps and real-time driving simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
